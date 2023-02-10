@@ -1,0 +1,122 @@
+
+#Hello {
+	font-size: 40px;
+	font-family: sans-serif;
+	color: darkgrey;
+	padding: 30px;
+}
+#carreprofil {
+	width: 700px;
+	height: 500px;
+	background-image: url(image/AZERTY.jpg);
+	border-radius: 5px;
+	margin: 10px;
+	box-shadow: 0px 0px 30px 10px lightgray;
+}
+
+#presentation {
+	font-size: 15px;
+	font-family: sans-serif;
+	color: black;
+}
+
+#Millie {
+	border-radius: 5%;
+}
+
+#btn {
+	background-color: lightcoral;
+	text-decoration: none;
+	color: whitesmoke;
+	padding: 10px 30px;
+	border-radius: 10px;
+	font-family: sans-serif;
+}
+
+#btn:hover{
+	background-color: brown;
+}
+
+#btn2{
+	background-color: #47a5aa;
+	text-decoration: none;
+	color: whitesmoke;
+	padding: 10px 30px;
+	border-radius: 10px;
+	font-family: sans-serif;
+
+}
+
+#btn2:hover{
+	background-color: darkblue;
+}
+
+
+a {
+	color: white;
+	font-size: 15px;
+}
+
+#carrejob {
+	width: 700px;
+	height: 200px;
+	background-image: url(image/AZERTY.jpg);
+	border-radius: 5px;
+	box-shadow: 0px 0px 30px 10px lightgray;
+
+}
+
+h2 {
+
+	color: orangered;
+	font-family: sans-serif;
+	font-size: 30px;
+	padding: 20px;
+}
+
+#jobski {
+	color: black;
+	font-size: 15px;
+	font-family: sans-serif;
+}
+
+#carrepassions {
+	width: 700px;
+	height: 220px;
+	background-image: url(image/AZERTY.jpg);
+	border-radius: 5px;
+	box-shadow: 0px 0px 70px 10px lightgray;
+
+}
+
+#liste {
+	color: black;
+	font-size: 15px;
+	font-family: sans-serif;
+
+}
+
+h3 {
+	color: black;
+	font-family: sans-serif;
+	font-size: 20px;
+}
+
+p {
+	color: black;
+	font-family: sans-serif;
+	font-size: 15px;
+}
+
+#trainings {
+
+	width: 700px;
+	height: 300px;
+	background-image: url(image/AZERTY.jpg);
+	border-radius: 5px;
+	box-shadow: 0px 0px 30px 10px lightgray;
+
+
+}
+
+
